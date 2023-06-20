@@ -1,0 +1,27 @@
+_repo: Neidon-ryosto-b-Kolminaytoksinen-huvinaytelma_70988
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Halme, Kaarle
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '33643'
+    url: http://www.gutenberg.org/2009/agents/33643
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarle_Halme
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70988'
+language: fi
+pgterms:marc905: 20221230131410halme
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bK. J. Gummerus Oy, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Neidon ryöstö : $b Kolminäytöksinen huvinäytelmä'
+url: http://www.gutenberg.org/ebooks/70988
