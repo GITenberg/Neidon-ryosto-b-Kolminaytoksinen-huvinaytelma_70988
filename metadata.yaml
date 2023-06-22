@@ -1,5 +1,8 @@
 _repo: Neidon-ryosto-b-Kolminaytoksinen-huvinaytelma_70988
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Halme, Kaarle
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33643
     wikipedia: https://fi.wikipedia.org/wiki/Kaarle_Halme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70988#Neidon-ryosto-b-Kolminaytoksinen-huvinaytelma
 gutenberg_issued: '2023-06-16'
 identifiers:
   gutenberg: '70988'
